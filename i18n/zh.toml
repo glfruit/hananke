@@ -31,6 +31,14 @@ other = "需要电子邮件地址。"
 [send]
 other = "发送"
 
+[readingTime]
+one = "阅读需要1分钟"
+other = "阅读需要{{ .Count }}分钟"
+
+[wordCount]
+one = "1个字"
+other = "{{ .Count }}个字"
+
 [taxonomyPageList]
 other = "标签为“{{ .Title }}”的页面如下"
 
