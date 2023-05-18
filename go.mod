@@ -1,3 +1,3 @@
-module github.com/theNewDynamic/gohugo-theme-ananke
+module github.com/glfruit/hananke
 
 go 1.14
